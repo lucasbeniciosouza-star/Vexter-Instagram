@@ -1,0 +1,69 @@
+{
+  "data": "2026-11-06",
+  "dia_semana": "sexta",
+  "feriado": false,
+  "carrossel": null,
+  "reels": null,
+  "stories": [
+    {
+      "arquivo": "stories/story_2026-11-06_tela1.jpg",
+      "url": "https://raw.githubusercontent.com/lucasbeniciosouza-star/vexter-instagram/main/publicacoes/2026-11-06/stories/story_2026-11-06_tela1.jpg",
+      "tipo": "divulga_carrossel",
+      "lote": 1,
+      "hora_alvo": "10:00",
+      "acao": "auto",
+      "status": "agendado",
+      "motivo_retencao": null,
+      "permalink": null,
+      "publicado_em": null
+    },
+    {
+      "arquivo": "stories/story_2026-11-06_tela2.jpg",
+      "url": "https://raw.githubusercontent.com/lucasbeniciosouza-star/vexter-instagram/main/publicacoes/2026-11-06/stories/story_2026-11-06_tela2.jpg",
+      "tipo": "checklist",
+      "lote": 1,
+      "hora_alvo": "10:00",
+      "acao": "auto",
+      "status": "agendado",
+      "motivo_retencao": null,
+      "permalink": null,
+      "publicado_em": null
+    },
+    {
+      "arquivo": "stories/story_2026-11-06_tela3.jpg",
+      "url": "https://raw.githubusercontent.com/lucasbeniciosouza-star/vexter-instagram/main/publicacoes/2026-11-06/stories/story_2026-11-06_tela3.jpg",
+      "tipo": "aviso",
+      "lote": 2,
+      "hora_alvo": "12:30",
+      "acao": "auto",
+      "status": "agendado",
+      "motivo_retencao": null,
+      "permalink": null,
+      "publicado_em": null
+    },
+    {
+      "arquivo": "stories/story_2026-11-06_tela4.jpg",
+      "url": "https://raw.githubusercontent.com/lucasbeniciosouza-star/vexter-instagram/main/publicacoes/2026-11-06/stories/story_2026-11-06_tela4.jpg",
+      "tipo": "novembro_azul",
+      "lote": 3,
+      "hora_alvo": "19:00",
+      "acao": "auto",
+      "status": "agendado",
+      "motivo_retencao": null,
+      "permalink": null,
+      "publicado_em": null
+    },
+    {
+      "arquivo": "stories/story_2026-11-06_tela5.jpg",
+      "url": "https://raw.githubusercontent.com/lucasbeniciosouza-star/vexter-instagram/main/publicacoes/2026-11-06/stories/story_2026-11-06_tela5.jpg",
+      "tipo": "pergunta_do_dia",
+      "lote": 4,
+      "hora_alvo": "20:00",
+      "acao": "auto",
+      "status": "agendado",
+      "motivo_retencao": null,
+      "permalink": null,
+      "publicado_em": null
+    }
+  ]
+}
