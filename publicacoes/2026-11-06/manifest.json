@@ -48,10 +48,10 @@
       "lote": 3,
       "hora_alvo": "19:00",
       "acao": "auto",
-      "status": "agendado",
+      "status": "publicado",
       "motivo_retencao": null,
       "permalink": null,
-      "publicado_em": null
+      "publicado_em": "2026-11-06 19:15"
     },
     {
       "arquivo": "stories/story_2026-11-06_tela5.jpg",
