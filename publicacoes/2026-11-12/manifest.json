@@ -1,0 +1,95 @@
+{
+  "data": "2026-11-12",
+  "dia_semana": "quinta",
+  "feriado": false,
+  "tema_semana": "MDF-e e CIOT, ICMS sobre combustíveis e IBS/CBS no agro",
+  "carrossel": {
+    "tema_visual": "cinza",
+    "titulo": "Confaz aprova novos valores de ICMS sobre combustíveis",
+    "arquivos": [
+      "carrossel/slide_01_2026-11-12.jpg",
+      "carrossel/slide_02_2026-11-12.jpg",
+      "carrossel/slide_03_2026-11-12.jpg",
+      "carrossel/slide_04_2026-11-12.jpg",
+      "carrossel/slide_05_2026-11-12.jpg",
+      "carrossel/slide_06_2026-11-12.jpg",
+      "carrossel/slide_07_2026-11-12.jpg",
+      "carrossel/slide_08_2026-11-12.jpg",
+      "carrossel/slide_09_2026-11-12.jpg"
+    ],
+    "legenda": "carrossel/legenda_instagram.txt",
+    "hora_alvo": "10:00",
+    "status": "agendado",
+    "motivo_retencao": null,
+    "permalink": null,
+    "publicado_em": null
+  },
+  "stories": [
+    {
+      "tela": 1,
+      "arquivo": "stories/story_2026-11-12_tela1.jpg",
+      "url": "https://raw.githubusercontent.com/lucasbeniciosouza-star/vexter-instagram/main/publicacoes/2026-11-12/stories/story_2026-11-12_tela1.jpg",
+      "tipo": "tecnica",
+      "formato": "texto",
+      "acao": "auto",
+      "lote": 1,
+      "hora_alvo": "10:00",
+      "status": "agendado",
+      "motivo_retencao": null,
+      "publicado_em": null
+    },
+    {
+      "tela": 2,
+      "arquivo": "stories/story_2026-11-12_tela2.jpg",
+      "url": "https://raw.githubusercontent.com/lucasbeniciosouza-star/vexter-instagram/main/publicacoes/2026-11-12/stories/story_2026-11-12_tela2.jpg",
+      "tipo": "tecnica",
+      "formato": "dado",
+      "acao": "auto",
+      "lote": 1,
+      "hora_alvo": "10:00",
+      "status": "agendado",
+      "motivo_retencao": null,
+      "publicado_em": null
+    },
+    {
+      "tela": 3,
+      "arquivo": "stories/story_2026-11-12_tela3.jpg",
+      "url": "https://raw.githubusercontent.com/lucasbeniciosouza-star/vexter-instagram/main/publicacoes/2026-11-12/stories/story_2026-11-12_tela3.jpg",
+      "tipo": "dia_a_dia",
+      "formato": "texto",
+      "acao": "auto",
+      "lote": 2,
+      "hora_alvo": "12:30",
+      "status": "agendado",
+      "motivo_retencao": null,
+      "publicado_em": null
+    },
+    {
+      "tela": 4,
+      "arquivo": "stories/story_2026-11-12_tela4.jpg",
+      "url": "https://raw.githubusercontent.com/lucasbeniciosouza-star/vexter-instagram/main/publicacoes/2026-11-12/stories/story_2026-11-12_tela4.jpg",
+      "tipo": "dia_a_dia",
+      "formato": "texto",
+      "acao": "auto",
+      "lote": 3,
+      "hora_alvo": "19:00",
+      "status": "agendado",
+      "motivo_retencao": null,
+      "publicado_em": null
+    },
+    {
+      "tela": 5,
+      "arquivo": "stories/story_2026-11-12_tela5.jpg",
+      "url": "https://raw.githubusercontent.com/lucasbeniciosouza-star/vexter-instagram/main/publicacoes/2026-11-12/stories/story_2026-11-12_tela5.jpg",
+      "tipo": "tecnica",
+      "formato": "cta",
+      "acao": "auto",
+      "lote": 4,
+      "hora_alvo": "20:00",
+      "status": "agendado",
+      "motivo_retencao": null,
+      "publicado_em": null
+    }
+  ],
+  "reels": null
+}

@@ -1,0 +1,11 @@
+Em 23/11/2026, o MDF-e sem CIOT obrigatório passa a ser rejeitado pela SEFAZ.
+
+A NT 2026.001 do MDF-e cria uma validação no servidor: quando o CIOT é exigido e não é informado, o manifesto volta com a rejeição 684. A homologação começou em 21/09/2026 e a produção está marcada para 23/11/2026. A regra vale para o transporte rodoviário de cargas por conta de terceiros e mediante remuneração.
+
+Na leitura da Vexter, o ponto de atenção é o fluxo: se o CIOT só é resolvido depois do manifesto, a operação tropeça. Vale conferir a ordem das etapas, fazer uma emissão de teste e definir quem responde por cada passo, entre operação, fiscal e financeiro.
+
+Quer revisar o seu fluxo? Envie CIOT no direct.
+
+Fontes: TecnoSpeed (05/06/2026) e Nota Gateway (03/06/2026), sobre a NT 2026.001. Conteúdo informativo. Não substitui análise individual da sua empresa.
+
+#MDFe #CIOT #TransporteELogistica #ComplianceFiscal #ContabilidadeConsultiva

@@ -1,0 +1,62 @@
+{
+  "data": "2026-11-11",
+  "dia_semana": "quarta",
+  "feriado": false,
+  "tema_semana": "MDF-e e CIOT, ICMS sobre combustíveis e IBS/CBS no agro",
+  "carrossel": null,
+  "stories": [
+    {
+      "tela": 1,
+      "arquivo": "stories/story_2026-11-11_tela1.jpg",
+      "url": "https://raw.githubusercontent.com/lucasbeniciosouza-star/vexter-instagram/main/publicacoes/2026-11-11/stories/story_2026-11-11_tela1.jpg",
+      "tipo": "tecnica",
+      "formato": "texto",
+      "acao": "auto",
+      "lote": 1,
+      "hora_alvo": "10:00",
+      "status": "agendado",
+      "motivo_retencao": null,
+      "publicado_em": null
+    },
+    {
+      "tela": 2,
+      "arquivo": "stories/story_2026-11-11_tela2.jpg",
+      "url": "https://raw.githubusercontent.com/lucasbeniciosouza-star/vexter-instagram/main/publicacoes/2026-11-11/stories/story_2026-11-11_tela2.jpg",
+      "tipo": "tecnica",
+      "formato": "texto",
+      "acao": "auto",
+      "lote": 2,
+      "hora_alvo": "12:30",
+      "status": "agendado",
+      "motivo_retencao": null,
+      "publicado_em": null
+    },
+    {
+      "tela": 3,
+      "arquivo": "stories/story_2026-11-11_tela3.jpg",
+      "url": "https://raw.githubusercontent.com/lucasbeniciosouza-star/vexter-instagram/main/publicacoes/2026-11-11/stories/story_2026-11-11_tela3.jpg",
+      "tipo": "dia_a_dia",
+      "formato": "pergunta",
+      "acao": "auto",
+      "lote": 3,
+      "hora_alvo": "19:00",
+      "status": "agendado",
+      "motivo_retencao": null,
+      "publicado_em": null
+    },
+    {
+      "tela": 4,
+      "arquivo": "stories/story_2026-11-11_tela4.jpg",
+      "url": "https://raw.githubusercontent.com/lucasbeniciosouza-star/vexter-instagram/main/publicacoes/2026-11-11/stories/story_2026-11-11_tela4.jpg",
+      "tipo": "tecnica",
+      "formato": "cta",
+      "acao": "auto",
+      "lote": 4,
+      "hora_alvo": "20:00",
+      "status": "agendado",
+      "motivo_retencao": null,
+      "publicado_em": null
+    }
+  ],
+  "reels": null
+}
