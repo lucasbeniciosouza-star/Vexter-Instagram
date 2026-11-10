@@ -59,9 +59,9 @@
       "acao": "auto",
       "lote": 2,
       "hora_alvo": "12:30",
-      "status": "agendado",
+      "status": "publicado",
       "motivo_retencao": null,
-      "publicado_em": null
+      "publicado_em": "2026-11-10 12:42"
     },
     {
       "tela": 4,
