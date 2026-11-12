@@ -19,10 +19,10 @@
     ],
     "legenda": "carrossel/legenda_instagram.txt",
     "hora_alvo": "10:00",
-    "status": "agendado",
+    "status": "publicado",
     "motivo_retencao": null,
-    "permalink": null,
-    "publicado_em": null
+    "permalink": "https://www.instagram.com/p/DfpJU8UAhTX/",
+    "publicado_em": "2026-11-12 10:18"
   },
   "stories": [
     {
@@ -34,9 +34,9 @@
       "acao": "auto",
       "lote": 1,
       "hora_alvo": "10:00",
-      "status": "agendado",
+      "status": "publicado",
       "motivo_retencao": null,
-      "publicado_em": null
+      "publicado_em": "2026-11-12 10:20"
     },
     {
       "tela": 2,
@@ -47,9 +47,9 @@
       "acao": "auto",
       "lote": 1,
       "hora_alvo": "10:00",
-      "status": "agendado",
+      "status": "publicado",
       "motivo_retencao": null,
-      "publicado_em": null
+      "publicado_em": "2026-11-12 10:20"
     },
     {
       "tela": 3,
