@@ -19,10 +19,10 @@
     ],
     "legenda": "carrossel/legenda_instagram.txt",
     "hora_alvo": "10:00",
-    "status": "agendado",
-    "motivo_retencao": null,
+    "status": "publicado",
+    "motivo_retencao": "publicado fora da janela de 3h por autorizacao expressa do Lucas (Windsor indisponivel no horario)",
     "permalink": null,
-    "publicado_em": null
+    "publicado_em": "2026-11-13 13:15"
   },
   "stories": [
     {
@@ -34,9 +34,9 @@
       "acao": "auto",
       "lote": 1,
       "hora_alvo": "10:00",
-      "status": "agendado",
-      "motivo_retencao": null,
-      "publicado_em": null
+      "status": "publicado",
+      "motivo_retencao": "publicado antecipado/fora da janela por autorizacao expressa do Lucas",
+      "publicado_em": "2026-11-13 13:15"
     },
     {
       "tela": 2,
@@ -47,9 +47,9 @@
       "acao": "auto",
       "lote": 1,
       "hora_alvo": "10:00",
-      "status": "agendado",
-      "motivo_retencao": null,
-      "publicado_em": null
+      "status": "publicado",
+      "motivo_retencao": "publicado antecipado/fora da janela por autorizacao expressa do Lucas",
+      "publicado_em": "2026-11-13 13:15"
     },
     {
       "tela": 3,
@@ -60,9 +60,9 @@
       "acao": "auto",
       "lote": 2,
       "hora_alvo": "12:30",
-      "status": "agendado",
-      "motivo_retencao": null,
-      "publicado_em": null
+      "status": "publicado",
+      "motivo_retencao": "publicado antecipado/fora da janela por autorizacao expressa do Lucas",
+      "publicado_em": "2026-11-13 13:15"
     },
     {
       "tela": 4,
@@ -73,9 +73,9 @@
       "acao": "auto",
       "lote": 3,
       "hora_alvo": "19:00",
-      "status": "agendado",
-      "motivo_retencao": null,
-      "publicado_em": null
+      "status": "publicado",
+      "motivo_retencao": "publicado antecipado/fora da janela por autorizacao expressa do Lucas",
+      "publicado_em": "2026-11-13 13:15"
     },
     {
       "tela": 5,
@@ -86,9 +86,9 @@
       "acao": "auto",
       "lote": 4,
       "hora_alvo": "20:00",
-      "status": "agendado",
-      "motivo_retencao": null,
-      "publicado_em": null
+      "status": "publicado",
+      "motivo_retencao": "publicado antecipado/fora da janela por autorizacao expressa do Lucas",
+      "publicado_em": "2026-11-13 13:15"
     }
   ],
   "reels": null
