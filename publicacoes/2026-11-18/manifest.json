@@ -1,0 +1,62 @@
+{
+  "data": "2026-11-18",
+  "dia_semana": "quarta",
+  "feriado": false,
+  "tema_semana": "CBS de referencia 2027, NT 2026.004 do CT-e e calendario fiscal pos-feriado",
+  "carrossel": null,
+  "stories": [
+    {
+      "tela": 1,
+      "arquivo": "stories/story_2026-11-18_tela1.jpg",
+      "url": "https://raw.githubusercontent.com/lucasbeniciosouza-star/vexter-instagram/main/publicacoes/2026-11-18/stories/story_2026-11-18_tela1.jpg",
+      "tipo": "tecnica",
+      "formato": "lista",
+      "acao": "auto",
+      "lote": 1,
+      "hora_alvo": "10:00",
+      "status": "agendado",
+      "motivo_retencao": null,
+      "publicado_em": null
+    },
+    {
+      "tela": 2,
+      "arquivo": "stories/story_2026-11-18_tela2.jpg",
+      "url": "https://raw.githubusercontent.com/lucasbeniciosouza-star/vexter-instagram/main/publicacoes/2026-11-18/stories/story_2026-11-18_tela2.jpg",
+      "tipo": "tecnica",
+      "formato": "texto",
+      "acao": "auto",
+      "lote": 2,
+      "hora_alvo": "12:30",
+      "status": "agendado",
+      "motivo_retencao": null,
+      "publicado_em": null
+    },
+    {
+      "tela": 3,
+      "arquivo": "stories/story_2026-11-18_tela3.jpg",
+      "url": "https://raw.githubusercontent.com/lucasbeniciosouza-star/vexter-instagram/main/publicacoes/2026-11-18/stories/story_2026-11-18_tela3.jpg",
+      "tipo": "dia_a_dia",
+      "formato": "pergunta",
+      "acao": "auto",
+      "lote": 3,
+      "hora_alvo": "19:00",
+      "status": "agendado",
+      "motivo_retencao": null,
+      "publicado_em": null
+    },
+    {
+      "tela": 4,
+      "arquivo": "stories/story_2026-11-18_tela4.jpg",
+      "url": "https://raw.githubusercontent.com/lucasbeniciosouza-star/vexter-instagram/main/publicacoes/2026-11-18/stories/story_2026-11-18_tela4.jpg",
+      "tipo": "tecnica",
+      "formato": "cta",
+      "acao": "auto",
+      "lote": 4,
+      "hora_alvo": "20:00",
+      "status": "agendado",
+      "motivo_retencao": null,
+      "publicado_em": null
+    }
+  ],
+  "reels": null
+}

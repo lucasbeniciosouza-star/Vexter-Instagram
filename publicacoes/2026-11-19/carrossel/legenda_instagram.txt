@@ -1,0 +1,11 @@
+A NT 2026.004 do CT-e tem produção prevista para 16/11/2026 e traz mudanças na emissão que o fiscal e a operação precisam conhecer.
+
+Entram novos campos de valor líquido da prestação (vTPrestLiq), a contingência offline com tpEmis=2 no lugar de EPEC e FS-DA, e o evento de apropriação de crédito presumido para serviços prestados por transportador autônomo ou MEI, com validações próprias. O CT-e Simplificado tem regras e datas específicas que merecem conferência no portal oficial.
+
+Na leitura da Vexter, o risco está no teste: emissor atualizado, contingência revisada e fluxo do crédito presumido definido antes de virar rotina.
+
+Salve este carrossel e envie ao seu time. Para revisar o CT-e da sua frota, envie CTE no direct.
+
+Fontes: AmdJus (06/10/2026) e Inventti (08/10/2026), ambas secundárias. A nota técnica não foi consultada diretamente no portal oficial. Conteúdo informativo. Não substitui análise individual da sua empresa.
+
+#CTe #NotaTecnica #ReformaTributaria #TransporteELogistica #ComplianceFiscal
