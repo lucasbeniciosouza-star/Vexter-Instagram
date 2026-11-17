@@ -21,7 +21,7 @@
     "hora_alvo": "10:00",
     "status": "publicado",
     "motivo_retencao": null,
-    "permalink": null,
+    "permalink": "https://www.instagram.com/p/Df2BVPMCFLQ/",
     "publicado_em": "2026-11-17 10:20"
   },
   "stories": [
@@ -86,9 +86,9 @@
       "acao": "auto",
       "lote": 4,
       "hora_alvo": "20:00",
-      "status": "agendado",
+      "status": "publicado",
       "motivo_retencao": null,
-      "publicado_em": null
+      "publicado_em": "2026-11-17 20:12"
     }
   ],
   "reels": null
