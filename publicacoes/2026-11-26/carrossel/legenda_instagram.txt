@@ -1,0 +1,11 @@
+O PGDAS-D mudou: desde a apuração de novembro, todas as atividades do Simples informam a folha dos últimos 12 meses.
+
+A Receita Federal atualizou o programa e o manual do PGDAS-D. Nos períodos de apuração de novembro e dezembro de 2026, a folha de salários dos últimos 12 meses (FS12) passa a ser informada por todas as atividades do Simples Nacional, e não apenas por quem depende do fator r. A partir de janeiro de 2027, a escolha entre caixa e competência termina e as apurações seguem o regime de competência.
+
+Na leitura da Vexter, quem vende a prazo e apura por caixa precisa simular desde já o efeito da mudança no pagamento do DAS.
+
+Salve e envie a quem cuida do Simples na sua empresa. Para revisar a sua transição, envie SIMPLES no direct.
+
+Fontes: Fenacon (16/11/2026) e Jornal Contábil (17/11/2026), com base na atualização do manual do PGDAS-D no Portal do Simples Nacional. Conteúdo informativo. Não substitui análise individual da sua empresa.
+
+#SimplesNacional #PGDASD #FatorR #RegimeDeCompetencia #ContabilidadeConsultiva
